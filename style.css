@@ -1,0 +1,11 @@
+.pract{
+    background-color: blanchedalmond;
+    justify-content: center;
+    align-items: center;
+    margin: 250px;
+    padding: 5%;
+}
+
+.pract h1{
+    color: coral
+}
